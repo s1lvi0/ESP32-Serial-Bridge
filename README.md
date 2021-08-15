@@ -17,6 +17,7 @@ Used Libraries: (must be installed in the arduino IDE):
 
 https://github.com/espressif/arduino-esp32
 
+
 ===============================================================
 
 In some cases the memorylayout is to small for this scetch.
@@ -25,6 +26,10 @@ If you face this problem you can either disable Bluetooth by removing
 in config.h 
 or change the partition size as described here:
 https://desire.giesecke.tk/index.php/2018/04/20/change-partition-size-arduino-ide/
+
+Arduino hardware configuration:
+
+https://github.com/AlphaLima/ESP32-Serial-Bridge/blob/master/Settings.jpg
 
 ===============================================================
 
@@ -53,6 +58,4 @@ I recomend to start your project with a Node32s or compatible evaluation board. 
 
 https://tech.scargill.net/wp-content/uploads/2017/05/ESP326.jpg
 
-A discussion incl. the similar ESP8266 projekt can be found here:
 
-http://www.postfrontal.com/forum/topic.asp?TOPIC_ID=8467
